@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @gastong08
+- 👋 Hi, I’m Gastón
+  
 - 👀 I’m interested in product design and learning about the relationship between design and programming. 
 - 🌱 I’m currently learning HTLM, CSS & JS
 - 💞️ I’m looking to collaborate on projects that need product design, focusing on growing and consolidating a product with a business-oriented approach.
