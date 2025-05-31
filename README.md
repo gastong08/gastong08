@@ -2,7 +2,7 @@
   
 - 👀 I am a product designer, learning to code.
 - 🌱 I’m currently learning HTLM, CSS & JS
-- 💞️ I’m looking to collaborate on projects that need product design, focusing on growing and consolidating a product with a business-oriented approach.
+- 🤖 I’m looking to collaborate on projects that need product design, focusing on growing and consolidating a product with a business-oriented approach.
 - 📫 How to reach me: gastong1940@gmail.com
 - ⚡ Fun fact: I'm watching The X-Files, and I'm fascinated!
 
